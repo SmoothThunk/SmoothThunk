@@ -14,7 +14,7 @@ sigma (or dependent) types.
 A thorough explanation with example of dependent intersection types is mentioned in the [pdf](https://github.com/SmoothThunk/SmoothThunk/files/14313438/Example_of_Dependent_Intersection_Types.pdf) attached
 
 * In the functional realm, I have experience coding in Haskell, OCaml, and Ruby. 
-* In the Object Oriented realm I have experience coding in C/C++, Python, and Java
+* In the object oriented realm I have experience coding in C/C++, Python, and Java
 * In the dependent realm I have experience with Coq (pronounced coke), Agda, and EasyCrypt.
 - 📫 I can be reached on shriyacool23@gmail.com
 
