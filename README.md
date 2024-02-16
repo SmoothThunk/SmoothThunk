@@ -11,9 +11,9 @@ multitude of types namely inductive-inductive and inductive-recursive without ch
 language. I am trying to see if there is a simple way to construct this type by extending plain old
 sigma (or dependent) types.
 
-In the functional realm, I have experience coding in Haskell, OCaml, and Ruby. 
-In the Object Oriented realm I have experience coding in C/C++, Python, and Java
-In the dependent realm I have experience with Coq (pronounced coke), Agda, and EasyCrypt.
+* In the functional realm, I have experience coding in Haskell, OCaml, and Ruby. 
+* In the Object Oriented realm I have experience coding in C/C++, Python, and Java
+* In the dependent realm I have experience with Coq (pronounced coke), Agda, and EasyCrypt.
 - 📫 I can be reached on shriyacool23@gmail.com
 
 <!---
